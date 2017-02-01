@@ -28,6 +28,7 @@ h2 {
 	background: #ffffff;
 	color:#777777;
 	top:0;
+	left:0;
 	}
 
 
@@ -156,6 +157,16 @@ h2 {
 	z-index: 1;
 	top:390px;
 	left:220px;
+	}
+.label5{
+	position: absolute;
+	height:30px;
+	width:200px;
+	text-align: center;
+	background: #4aaaa5;
+	color:white;
+	z-index: 1;
+	top:600px;
 	}
 .title {
 	text-align: center;
