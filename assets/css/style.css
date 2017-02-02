@@ -3,7 +3,7 @@ body {
 	background: url("../images/seigaiha.png") no-repeat left fixed;
 	 background-size:960px;
 	 max-width:960px;
-	 margin:10 auto;
+	 margin:10px auto;
 	 float: left;
 	}
 
@@ -88,7 +88,7 @@ h2 {
 
 .footer {
 	bottom: clear ;
-	font-color:white;
+	color:#fff;
 	background:#666666;
 	text-align:center;
 	position:fixed;
@@ -139,7 +139,7 @@ h2 {
 	}
 
 .label3{
-	 position: absolute;
+	position: absolute;
 	height:30px;
 	width:200px;
 	background: #4aaaa5;
